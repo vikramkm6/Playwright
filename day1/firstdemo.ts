@@ -46,4 +46,8 @@ let numbers: number[] = [10, 20, 30];
 for (let num of numbers) {
     console.log(num);
 }
-console.log("farhan 2nd push"); 
+console.log("farhan 3rd push"); 
+
+function add(a: number, b: number): number {    
+    return a + b;
+}
